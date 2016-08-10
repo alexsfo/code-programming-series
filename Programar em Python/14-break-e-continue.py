@@ -1,10 +1,5 @@
 # Programar em Python #14 - break e continue
 
-'''
-	O break faz com que o a vida do ciclo termine, ou seja, faz com que não se itere por mais nada
-	O continue ignora todo o conteúdo da volta que está a seguir dele mesmo e passa automaticamente para a próxima iteração
-'''
-
 numero = 0;
 animais = ['Cão', 'Gato', 'Galinha', 'Coelho', 'Leão'];
 

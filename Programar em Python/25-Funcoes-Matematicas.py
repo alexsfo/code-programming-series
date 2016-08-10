@@ -1,14 +1,5 @@
 # Programar em Python #25 - Funções Matemáticas
 
-'''
-	sin(variavel), cos(variavel) e tan(variavel) -> Calcular o seno, o cosseno e a tangente
-	floor(variavel) -> Remove o valor decimal do dado número
-	ceil(variavel) -> Arredonda o dado número para o próximo
-	abs(variavel) -> Retorna o valor absoluto do dado número
-	fsum(variavel) -> Faz a soma de todos os números dentro de uma lista (por exemplo)
-	pow(variavel) -> Multiplica o seu valor inicial múltiplas vezes (consoante o número de vezes)
-'''
-
 from math import *;
 
 numeros = [10, 20, 30, 40, 50];

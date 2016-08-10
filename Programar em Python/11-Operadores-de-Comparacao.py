@@ -1,16 +1,4 @@
-# Programar em Python #10 - Operadores de Comparação
-
-'''
-	== -> Igual
-	!= -> Diferente
-	> -> Maior
-	< -> Menor
-	>= -> Maior e igual
-	<= -> Menor e igual
-
-	and -> E
-	or -> Ou
-'''
+# Programar em Python #11 - Operadores de Comparação
 
 x = 10;
 y = 20;
