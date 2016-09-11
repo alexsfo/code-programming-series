@@ -1,4 +1,4 @@
-﻿// Programar em Python #29 - Dicionários
+﻿// Programar em C# #29 - Dicionários
 
 using System;
 using System.Collections.Generic;

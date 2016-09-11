@@ -1,4 +1,4 @@
-﻿// Programar em Python #28 - Arrays Multidimensionais
+﻿// Programar em C# #28 - Arrays Multidimensionais
 
 using System;
 

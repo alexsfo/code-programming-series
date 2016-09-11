@@ -1,4 +1,4 @@
-﻿// Programar em Python #26 - Variáveis Globais e Locais
+﻿// Programar em C# #26 - Variáveis Globais e Locais
 
 using System;
 

@@ -1,4 +1,4 @@
-﻿// Programar em Python #25 - ref e out
+﻿// Programar em C# #25 - ref e out
 
 using System;
 

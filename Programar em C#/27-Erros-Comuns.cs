@@ -1,4 +1,4 @@
-﻿// Programar em Python #27 - Erros Comuns
+﻿// Programar em C# #27 - Erros Comuns
 
 using System;
 

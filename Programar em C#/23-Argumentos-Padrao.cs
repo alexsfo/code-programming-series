@@ -1,4 +1,4 @@
-﻿// Programar em Python #23 - Argumentos Padrão
+﻿// Programar em C# #23 - Argumentos Padrão
 
 using System;
 
