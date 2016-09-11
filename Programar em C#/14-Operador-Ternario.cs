@@ -1,4 +1,4 @@
-﻿// Programar em Python #14 - Operador Ternário
+﻿// Programar em C# #14 - Operador Ternário
 
 using System;
 

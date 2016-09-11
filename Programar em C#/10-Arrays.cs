@@ -1,4 +1,4 @@
-﻿// Programar em Python #10 - Arrays
+﻿// Programar em C# #10 - Arrays
 
 using System;
 

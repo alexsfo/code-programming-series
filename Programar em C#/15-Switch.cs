@@ -1,4 +1,4 @@
-﻿// Programar em Python #15 - Switch
+﻿// Programar em C# #15 - Switch
 
 using System;
 

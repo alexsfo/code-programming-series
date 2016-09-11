@@ -1,4 +1,4 @@
-﻿// Programar em Python #18 - Ciclo while e do while
+﻿// Programar em C# #18 - Ciclo while e do while
 
 using System;
 

@@ -1,4 +1,4 @@
-﻿// Programar em Python #17 - Ciclo foreach
+﻿// Programar em C# #17 - Ciclo foreach
 
 using System;
 using System.Collections.Generic;

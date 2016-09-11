@@ -1,4 +1,4 @@
-﻿// Programar em Python #16 - Ciclo for
+﻿// Programar em C# #16 - Ciclo for
 
 using System;
 

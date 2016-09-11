@@ -1,4 +1,4 @@
-﻿// Programar em Python #13 - Operadores de Comparação
+﻿// Programar em C# #13 - Operadores de Comparação
 
 using System;
 

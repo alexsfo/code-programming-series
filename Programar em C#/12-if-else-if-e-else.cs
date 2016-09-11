@@ -1,4 +1,4 @@
-﻿// Programar em Python #12 - if, else if e else
+﻿// Programar em C# #12 - if, else if e else
 
 using System;
 
