@@ -1,4 +1,4 @@
-﻿// Programar em Python #32 - Classes e Objetos
+﻿// Programar em C# #32 - Classes e Objetos
 
 using System;
 

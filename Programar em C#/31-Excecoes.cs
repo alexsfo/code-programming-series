@@ -1,4 +1,4 @@
-﻿// Programar em Python #31 - Exceções
+﻿// Programar em C# #31 - Exceções
 
 using System;
 

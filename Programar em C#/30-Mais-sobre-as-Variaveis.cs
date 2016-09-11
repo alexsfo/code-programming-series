@@ -1,4 +1,4 @@
-﻿// Programar em Python #30 - Mais sobre as Variáveis
+﻿// Programar em C# #30 - Mais sobre as Variáveis
 
 using System;
 using System.Collections.Generic;
