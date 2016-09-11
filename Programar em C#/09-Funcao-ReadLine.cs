@@ -1,4 +1,4 @@
-﻿// Programar em Python #09 - Função ReadLine()
+﻿// Programar em C# #09 - Função ReadLine()
 
 using System;
 

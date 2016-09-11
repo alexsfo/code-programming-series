@@ -1,4 +1,4 @@
-﻿// Programar em Python #06 - Operadores de Atribuição
+﻿// Programar em C# #06 - Operadores de Atribuição
 
 using System;
 

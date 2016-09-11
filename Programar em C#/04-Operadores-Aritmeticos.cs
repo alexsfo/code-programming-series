@@ -1,4 +1,4 @@
-﻿// Programar em Python #04 - Operadores Aritméticos
+﻿// Programar em C# #04 - Operadores Aritméticos
 
 using System;
 

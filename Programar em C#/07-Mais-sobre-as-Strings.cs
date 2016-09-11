@@ -1,4 +1,4 @@
-﻿// Programar em Python #07 - Mais sobre as Strings
+﻿// Programar em C# #07 - Mais sobre as Strings
 
 using System;
 
