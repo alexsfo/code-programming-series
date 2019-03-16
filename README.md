@@ -6,7 +6,7 @@ Code developed in my YouTube channel programming series where coexists Python, C
 
 - Open your terminal `:)`
 - Clone the repository
-  - `git clone https://github.com/dnelsonsilvav/code-programming-series.git`
+  - `git clone https://github.com/imnelsonsilva/code-programming-series.git`
 - Enter to the repository directory
   - `cd code-programming-series`
 - Now you have access to the code regarding the programming series
@@ -29,4 +29,4 @@ Code developed in my YouTube channel programming series where coexists Python, C
 
 ### Do you have any suggestions for future episodes or future series?
 
-- If so, feel free to [contact me](mailto:contact@dnelsonsilvav.com).
+- If so, feel free to [contact me](mailto:contact@imnelsonsilva.com).
